@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "650154269843",
+    "firebase_url": "https://autenticacionchat.firebaseio.com",
+    "project_id": "autenticacionchat",
+    "storage_bucket": "autenticacionchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650154269843:android:2bfc8fcd22e608c2",
+        "android_client_info": {
+          "package_name": "com.example.davidblanco.autenticacionchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650154269843-jdnt4bidl2q3sj51nec0e9qb6s5j3bg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.davidblanco.autenticacionchat",
+            "certificate_hash": "a685e65250fadcf02073cd198af7fc26751abf70"
+          }
+        },
+        {
+          "client_id": "650154269843-bhjqbjfgebo00upkuc5e0sa736qmoq70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW-KKHhB_bW0KuoM6Ob5aINFhlqb927_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650154269843-bhjqbjfgebo00upkuc5e0sa736qmoq70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
